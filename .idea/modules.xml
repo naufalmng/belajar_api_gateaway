@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/simple_frontend.iml" filepath="$PROJECT_DIR$/.idea/simple_frontend.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/belajar_api_gateaway-main.iml" filepath="$PROJECT_DIR$/.idea/belajar_api_gateaway-main.iml" />
+>>>>>>> cdaca540a04bf85592b969e8dc5580427b895c3a
     </modules>
   </component>
 </project>
