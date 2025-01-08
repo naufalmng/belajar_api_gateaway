@@ -9,4 +9,4 @@ def home():  # put application's code here
 
 
 if __name__ == '__main__':
-    app.run()
+    app.run(debug=True, host='0.0.0.0', port=7000)
