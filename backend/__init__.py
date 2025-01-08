@@ -9,8 +9,9 @@ def create_app():
     CORS(app)
     # MySQL Config
     app.config['MYSQL_HOST'] = 'localhost'
+    app.config['MYSQL_PORT'] = '3307'
     app.config['MYSQL_USER'] = 'root'
-    app.config['MYSQL_PASSWORD'] = 'admin2025'
+    app.config['MYSQL_PASSWORD'] = 'Admin2025'
     app.config['MYSQL_DB'] = 'simple_db'
 
     mysql = MySQL(app)
