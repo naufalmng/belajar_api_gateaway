@@ -1,4 +1,3 @@
-// Dockerfile/script.js
 document.getElementById('fetchUserBtn').addEventListener('click', function() {
   fetch('103.31.39.20:7000/api/users')
     .then(response => response.json())

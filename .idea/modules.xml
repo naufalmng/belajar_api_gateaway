@@ -3,10 +3,14 @@
   <component name="ProjectModuleManager">
     <modules>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/simple_frontend.iml" filepath="$PROJECT_DIR$/.idea/simple_frontend.iml" />
 =======
       <module fileurl="file://$PROJECT_DIR$/.idea/belajar_api_gateaway-main.iml" filepath="$PROJECT_DIR$/.idea/belajar_api_gateaway-main.iml" />
 >>>>>>> cdaca540a04bf85592b969e8dc5580427b895c3a
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/simple_frontend.iml" filepath="$PROJECT_DIR$/.idea/simple_frontend.iml" />
+>>>>>>> ff36649b4784740084261ef2e85ae34d769b9b29
     </modules>
   </component>
 </project>

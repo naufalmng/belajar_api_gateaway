@@ -1,13 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
 <module version="4">
   <component name="Flask">
     <option name="enabled" value="true" />
   </component>
+=======
+<module type="PYTHON_MODULE" version="4">
+  <component name="Flask">
+    <option name="enabled" value="true" />
+  </component>
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+>>>>>>> ff36649b4784740084261ef2e85ae34d769b9b29
   <component name="TemplatesService">
     <option name="TEMPLATE_CONFIGURATION" value="Jinja2" />
     <option name="TEMPLATE_FOLDERS">
       <list>
+<<<<<<< HEAD
         <option value="$MODULE_DIR$/templates" />
+=======
+        <option value="$MODULE_DIR$/../simple_frontend\templates" />
+>>>>>>> ff36649b4784740084261ef2e85ae34d769b9b29
       </list>
     </option>
   </component>
